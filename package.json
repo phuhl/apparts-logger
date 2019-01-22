@@ -1,0 +1,23 @@
+{
+  "name": "apparts-logger",
+  "version": "1.0.0",
+  "description": "Interface to the logger ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ph-uhl.com:Apparts/apparts-logger.git"
+  },
+  "keywords": [
+    "apparts",
+    "server",
+    "logger"
+  ],
+  "author": "Philipp Uhl",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "winston": "^2.4.4"
+  }
+}
