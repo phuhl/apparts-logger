@@ -1,5 +1,5 @@
 {
-  "name": "apparts-logger",
+  "name": "@apparts/logger",
   "version": "1.0.0",
   "description": "Interface to the logger ",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@ph-uhl.com:Apparts/apparts-logger.git"
+    "url": "git@github.com:phuhl/apparts-logger.git"
   },
   "keywords": [
     "apparts",
@@ -16,7 +16,7 @@
     "logger"
   ],
   "author": "Philipp Uhl",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "winston": "^2.4.4"
   }
